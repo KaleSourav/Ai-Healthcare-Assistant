@@ -8,6 +8,7 @@ A **Healthcare Assistant Chatbot** built using **Streamlit** and **Hugging Face 
 - 🏥 **Healthcare Advice**: Provides responses to common medical queries.
 - 
 - 🤖 **AI-Powered Chatbot**: Uses **Hugging Face's DistilGPT-2** for natural language processing.
+
 -   
 - 🔍 **Keyword-Based Responses**: Recognizes symptoms, medications, and appointment-related queries.
 -  
